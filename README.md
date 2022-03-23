@@ -1,5 +1,5 @@
 # kerberos-client
-Kerberos Clients images 
+Kerberos Clients images.
 
 
 MIT Kerberos kadmin client image as command line. 
